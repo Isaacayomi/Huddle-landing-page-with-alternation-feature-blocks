@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://https://github.com/Prime-xyz/Huddle-landing-page-with-alternation-feature-blocks)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://prime-huddle-landing-page-with-alternating-blocks.vercel.app/)
 
 ## My process
 
